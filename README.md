@@ -14,7 +14,6 @@ SimpleYard is struggling with a high attrition rate, which impacts performance, 
   
 By analyzing real-world HR data, we aim to support better decision-making using data science.
 
----
 
 ## 📁 Files Included
 
