@@ -1,3 +1,6 @@
+![HR Analytics Banner](./BLack Minimalist Corporate Staff Identity LinkedIn Banner.png)
+
+
 # 📊 HR Analytics Project – Employee Attrition Analysis (SimpleYard)
 
 Welcome to the Employee Attrition Analysis project for **SimpleYard**, a fast-growing organization facing a major workforce retention challenge. This project applies **exploratory data analysis (EDA)** to uncover key patterns behind why employees leave — and how data-driven strategies can reduce churn.
