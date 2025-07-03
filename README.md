@@ -1,5 +1,3 @@
-![HR Analytics Banner](./BLack Minimalist Corporate Staff Identity LinkedIn Banner.png)
-
 
 # 📊 HR Analytics Project – Employee Attrition Analysis (SimpleYard)
 
